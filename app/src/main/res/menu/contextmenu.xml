@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/viewvideo"
+        android:title="View Video"/>
+    <item
+        android:id="@+id/songwiki"
+        android:title="View Song's Wiki"/>
+    <item
+        android:id="@+id/viewartist"
+        android:title="View Artist"/>
+</menu>
